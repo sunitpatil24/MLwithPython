@@ -1,4 +1,0 @@
-Objective: Prediction of sales figures given other information related to high net worth counterfeit medicines. 
-Solution deployed: Implemented Linear Regression model to predict sales figures related to counterfeit medicine.
-Software/Tool used: Jupyter Notebook, Google Colab 
-Skillset used: Python libraries - pandas, NumPy, seaborn, scikit-learn.
